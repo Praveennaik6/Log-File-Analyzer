@@ -42,3 +42,4 @@ with open(report_file, "w") as report:
         report.write(w + "\n")
 
 print("✅ Analysis complete! Report generated:", report_file)
+

@@ -1,0 +1,11 @@
+===== LOG FILE ANALYSIS REPORT =====
+Total Lines Scanned: 5
+Total Errors Found: 2
+Total Warnings Found: 1
+
+---- ERRORS ----
+2025-10-23 10:02:30 ERROR Failed to connect to database
+2025-10-23 10:10:22 ERROR Disk space low
+
+---- WARNINGS ----
+2025-10-23 10:01:45 WARNING Connection slow
